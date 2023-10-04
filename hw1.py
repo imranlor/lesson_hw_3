@@ -1,5 +1,5 @@
 from aiogram import Bot, Dispatcher, types, executor
-from confi import token
+from config import token
 import random   
 
 bot = Bot(token)
